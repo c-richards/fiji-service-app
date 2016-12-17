@@ -1,15 +1,19 @@
 {
-  "name": "django-hackathon-starter",
-  "version": "0.0.0",
+  "name": "fiji-commService-app",
+  "version": "0.0.1",
   "authors": [
-    "David Leonard <sephirothcloud1025@yahoo.com>"
+    "Christopher Richards <c.richards@prismaincorporated.com>"
   ],
-  "description": "Django boilerplate project for hackathons",
+  "description": "Community Service App for FIJI",
   "keywords": [
     "Django",
     "Python",
     "API",
     "RESTful"
+	"Log"
+	"Time Log"
+	"Service"
+	
   ],
   "license": "MIT",
   "dependencies": {

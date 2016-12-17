@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    {% include 'serviceApp/base.html' %}
+
+    <body>
+    <div class="container">
+    	{% if user.is_authenticated %}
+        	<h1>Api Example</h1>
+        	<strong>{{ boldmessage }}</strong><br />
+        {% else %}
+        	<h1> Welcome to the FIJI Community Service Web App! </h1>
+        {% endif %}
+    	<br>
+		<div class="row">
+			<div class="col-sm-6 col-md-6">
+				In an effort to make the service logging experience easier for brothers, we're using this custom web app to help you find service events, log hours, track hours, get notice of approved hours.
+			</div>
+			<div class="col-sm-6 col-md-6">
+				<center><img src="/static/img/clock.png" height="250px" width="250px"></center>
+
+			</div>
+
+		</div>
+		<br>
+	</div>
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1686072338351141',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    </body>
+</html>

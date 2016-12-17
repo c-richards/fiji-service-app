@@ -1,0 +1,17 @@
+branch-defaults:
+  master:
+    environment: fiji-service-1a
+environment-defaults:
+  Sample-env:
+    branch: master
+    repository: origin
+  fiji-service-1a:
+    branch: null
+    repository: null
+global:
+  application_name: FIJI-ServiceApp
+  default_ec2_keyname: crichards
+  default_platform: 64bit Amazon Linux 2016.09 v2.2.0 running Python 3.4
+  default_region: us-east-1
+  profile: eb-cli
+  sc: git
