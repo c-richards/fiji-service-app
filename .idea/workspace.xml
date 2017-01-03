@@ -2,210 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920d3bad-19ca-41c7-8ac9-2a48f3197fef" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\METADATA" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\RECORD" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\setuptools-30.3.0.dist-info\zip-safe" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\METADATA" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\RECORD" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wheel-0.29.0.dist-info\top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\METADATA" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\RECORD" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref-0.1.2.dist-info\top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref\handlers.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref\headers.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref\simple_server.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref\util.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Prisma Overlord\Desktop\commService\commService\venv\Lib\site-packages\wsgiref\validate.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/coverage-2.7.exe" afterPath="$PROJECT_DIR$/venv/Scripts/coverage-2.7.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/coverage.exe" afterPath="$PROJECT_DIR$/venv/Scripts/coverage.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/coverage2.exe" afterPath="$PROJECT_DIR$/venv/Scripts/coverage2.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-2.7.exe" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-2.7.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/epylint.exe" afterPath="$PROJECT_DIR$/venv/Scripts/epylint.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/nosetests-2.7.exe" afterPath="$PROJECT_DIR$/venv/Scripts/nosetests-2.7.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/nosetests.exe" afterPath="$PROJECT_DIR$/venv/Scripts/nosetests.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pip2.7.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pip2.7.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pip2.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pip2.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pybabel.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pybabel.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pygmentize.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pygmentize.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pylint-gui.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pylint-gui.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pylint.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pylint.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pyreverse.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pyreverse.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/sphinx-apidoc.exe" afterPath="$PROJECT_DIR$/venv/Scripts/sphinx-apidoc.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/sphinx-autogen.exe" afterPath="$PROJECT_DIR$/venv/Scripts/sphinx-autogen.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/sphinx-build.exe" afterPath="$PROJECT_DIR$/venv/Scripts/sphinx-build.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/sphinx-quickstart.exe" afterPath="$PROJECT_DIR$/venv/Scripts/sphinx-quickstart.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/symilar.exe" afterPath="$PROJECT_DIR$/venv/Scripts/symilar.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/tracer.pyd" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/tracer.pyd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/METADATA" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/METADATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/METADATA" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/METADATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/METADATA" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/METADATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/METADATA" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/METADATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Babel-1.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Babel-1.3.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-1.7.6.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-1.7.6.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.7.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.7.3.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pygments-2.0.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pygments-2.0.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Sphinx-1.3.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Sphinx-1.3.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/alabaster-0.7.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alabaster-0.7.3.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.3.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.3.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-4.0a5.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-4.0a5.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_form-3.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_form-3.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_forms-0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_forms-0.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bower-5.0.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bower-5.0.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_cors_headers-1.0.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_cors_headers-1.0.0.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/docutils-0.12.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/docutils-0.12.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/httplib2-0.9.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/httplib2-0.9.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/mock-1.0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mock-1.0.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/nose-1.3.4.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/nose-1.3.4.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauth2-1.5.211.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauth2-1.5.211.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-9.0.1.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pylint-1.4.3.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pylint-1.4.3.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/python_openid-2.2.5.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_openid-2.2.5.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/simplejson-3.6.5.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/simplejson-3.6.5.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/snowballstemmer-1.2.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/snowballstemmer-1.2.0.dist-info/RECORD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/UserDict.py" afterPath="$PROJECT_DIR$/venv/Lib/UserDict.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Babel-1.3.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Babel-1.3.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.7.3.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.7.3.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/alabaster-0.7.3.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alabaster-0.7.3.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.3.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.3.2.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-4.0a5.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-4.0a5.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_form-3.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_form-3.2.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_forms-0.1.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_forms-0.1.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bower-5.0.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bower-5.0.2.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_cors_headers-1.0.0.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_cors_headers-1.0.0.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/docutils-0.12.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/docutils-0.12.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/httplib2-0.9.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/httplib2-0.9.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/mock-1.0.1.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mock-1.0.1.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauth2-1.5.211.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauth2-1.5.211.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/python_openid-2.2.5.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_openid-2.2.5.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/simplejson-3.6.5.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/simplejson-3.6.5.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/snowballstemmer-1.2.0.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/snowballstemmer-1.2.0.dist-info/WHEEL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/tool/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/tool/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/_abcoll.py" afterPath="$PROJECT_DIR$/venv/Lib/_abcoll.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/activate" afterPath="$PROJECT_DIR$/venv/Scripts/activate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/archive.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/archive.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/serviceApp/templates/serviceApp/base.html" afterPath="$PROJECT_DIR$/app/serviceApp/templates/serviceApp/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/bdist_wheel.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/bdist_wheel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/ceval.h" afterPath="$PROJECT_DIR$/venv/Include/ceval.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/code.h" afterPath="$PROJECT_DIR$/venv/Include/code.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/codecs.h" afterPath="$PROJECT_DIR$/venv/Include/codecs.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/codecs.py" afterPath="$PROJECT_DIR$/venv/Lib/codecs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/commService.iml" afterPath="$PROJECT_DIR$/.idea/commService.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/config.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/depends.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/depends.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/develop.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/develop.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/dictobject.h" afterPath="$PROJECT_DIR$/venv/Include/dictobject.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/dist.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/dist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.py" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/easy_install.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/easy_install.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/egg2wheel.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/egg2wheel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/egg_info.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/egg_info.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/install.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/install.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/signatures/keys.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/signatures/keys.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/listobject.h" afterPath="$PROJECT_DIR$/venv/Include/listobject.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/locale.py" afterPath="$PROJECT_DIR$/venv/Lib/locale.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2-py2.7-nspkg.pth" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2-py2.7-nspkg.pth" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/memoryobject.h" afterPath="$PROJECT_DIR$/venv/Include/memoryobject.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Babel-1.3.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Babel-1.3.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.7.3.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.7.3.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-0.23.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTumblr-0.0.6.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/alabaster-0.7.3.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/alabaster-0.7.3.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.3.2.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.3.2.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_form-3.2.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_form-3.2.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_forms-0.1.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bootstrap_forms-0.1.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_bower-5.0.2.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_bower-5.0.2.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_cors_headers-1.0.0.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_cors_headers-1.0.0.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_nose-1.3.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/httplib2-0.9.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/httplib2-0.9.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/logilab_common-0.63.2.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/mock-1.0.1.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mock-1.0.1.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauth2-1.5.211.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauth2-1.5.211.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-0.7.2.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/python_openid-2.2.5.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_openid-2.2.5.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/simplejson-3.6.5.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/simplejson-3.6.5.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/snowballstemmer-1.2.0.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/snowballstemmer-1.2.0.dist-info/metadata.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/metadata.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/metadata.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/serviceApp/models.py" afterPath="$PROJECT_DIR$/app/serviceApp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/monkey.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/monkey.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/namespaces.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/namespaces.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/ntpath.py" afterPath="$PROJECT_DIR$/venv/Lib/ntpath.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/object.h" afterPath="$PROJECT_DIR$/venv/Include/object.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/opcode.h" afterPath="$PROJECT_DIR$/venv/Include/opcode.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/orig-prefix.txt" afterPath="$PROJECT_DIR$/venv/Lib/orig-prefix.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/patchlevel.h" afterPath="$PROJECT_DIR$/venv/Include/patchlevel.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/pep425tags.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/pep425tags.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/posixpath.py" afterPath="$PROJECT_DIR$/venv/Lib/posixpath.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py27compat.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py27compat.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/pyconfig.h" afterPath="$PROJECT_DIR$/venv/Include/pyconfig.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/pyerrors.h" afterPath="$PROJECT_DIR$/venv/Include/pyerrors.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/pymacconfig.h" afterPath="$PROJECT_DIR$/venv/Include/pymacconfig.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/pymath.h" afterPath="$PROJECT_DIR$/venv/Include/pymath.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/pythonrun.h" afterPath="$PROJECT_DIR$/venv/Include/pythonrun.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2html.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2html.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2latex.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2latex.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2man.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2man.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2odt.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2odt.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2odt_prepstyles.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2odt_prepstyles.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2pseudoxml.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2pseudoxml.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2s5.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2s5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2xetex.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2xetex.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rst2xml.py" afterPath="$PROJECT_DIR$/venv/Scripts/rst2xml.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Scripts/rstpep2html.py" afterPath="$PROJECT_DIR$/venv/Scripts/rstpep2html.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/sandbox.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/sandbox.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/sre_parse.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_parse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/stringobject.h" afterPath="$PROJECT_DIR$/venv/Include/stringobject.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/test.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/test/test_basic.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/test/test_basic.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Include/unicodeobject.h" afterPath="$PROJECT_DIR$/venv/Include/unicodeobject.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/wininst2wheel.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/wheel/wininst2wheel.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" />
     </list>
     <ignored path="commService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -303,7 +100,7 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/serviceApp/templates/serviceApp/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19495413">
+            <state vertical-scroll-proportion="0.19517796">
               <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
               <folding />
             </state>
@@ -485,7 +282,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -687,7 +484,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-24" y="3" width="1227" height="1057" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16904962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -719,6 +516,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1102,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/serviceApp/templates/serviceApp/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19495413">
+        <state vertical-scroll-proportion="0.19517796">
           <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
           <folding />
         </state>
