@@ -1,4 +1,4 @@
-#!c:\commservice\venv\scripts\python.exe
+#!c:\users\prisma~1\desktop\commse~1\commse~1\venv\scripts\python.exe
 
 # $Id: rst2s5.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: Chris Liechti <cliechti@gmx.net>

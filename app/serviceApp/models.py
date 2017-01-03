@@ -1,14 +1,41 @@
 from django.db import models
 from django.contrib.auth.models import User
+from django.utils import timezone
 
 # Create your models here.
 class UserProfile(models.Model):
     # This line is required. Links UserProfile to a User model instance.
     user = models.OneToOneField(User)
+    location = models.CharField(max_length=30, blank=True)
 
     # Override the __unicode__() method to return out something meaningful!
     def __unicode__(self):
         return self.user.username
+
+class LogEntry(models.Model):
+    # The model for Log Entry
+    isVerified = False
+    #logAuthor = models.ForeignKey('auth.User')
+    title = models.CharField(max_length=200)
+    benefitingService = models.CharField(max_length=200)
+    logDescription = models.CharField(max_length=200)
+    serviceDate = models.DateTimeField()
+    serviceTime = models
+    logEntryDate = models.DateTimeField(
+        default=timezone.now()
+    )
+    published_date = models.DateTimeField(
+        blank=True, null=True
+    )
+
+    def acceptLogAccepted(self):
+        self.isVerified = True
+
+    def publish(self):
+        self.published_date = timezone.now()
+        self.save()
+    def __str__(self):
+        return self.logAuthor + self.published_date
 
 class Profile(models.Model):
     user = models.ForeignKey(User)
